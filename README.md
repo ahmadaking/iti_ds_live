@@ -1,4 +1,4 @@
-iti_e2e_live
+End to End Data Scince Project
 ==============================
 
 Live illustration for cookie cutter
